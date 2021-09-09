@@ -1,0 +1,7678 @@
+{
+  "roadDatas": [
+    {
+      "name": "road_star",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": -1.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": -1.0,
+          "z": -2.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": -1.0,
+          "z": -4.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": -1.0,
+          "z": -6.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": -1.0,
+          "z": -8.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": -1.0,
+          "z": -10.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": -1.0,
+          "z": -12.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": -1.0,
+          "z": -16.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": -1.0,
+          "z": -14.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": -1.0,
+          "z": -18.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": -1.0,
+          "z": -20.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": -1.0,
+          "z": -24.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": -1.0,
+          "z": -22.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": -1.0,
+          "z": -30.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": -1.0,
+          "z": -28.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": -1.0,
+          "z": -26.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 6.4585,
+          "z": -113.51
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 6.4585,
+          "z": -115.51
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 6.4585,
+          "z": -111.51
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 6.4585,
+          "z": -121.51
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 6.4585,
+          "z": -117.51
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 6.4585,
+          "z": -119.51
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 6.4585,
+          "z": -123.51
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 6.4585,
+          "z": -125.51
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 6.4585,
+          "z": -127.51
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": -1.0,
+          "z": -32.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": -1.0,
+          "z": -36.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": -1.0,
+          "z": -34.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": -1.0,
+          "z": -42.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": -1.0,
+          "z": -40.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": -1.0,
+          "z": -38.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": -1.0,
+          "z": -46.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": true,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.4992648,
+          "z": 22.0
+        },
+        "size": {
+          "x": 10.0,
+          "y": 0.9985296,
+          "z": 48.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": -1.0,
+          "z": -44.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_star",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 6.4585,
+          "z": -88.006
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0,
+          "w": 0.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": true,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.4992648,
+          "z": -0.99999994
+        },
+        "size": {
+          "x": 10.0,
+          "y": 0.9985296,
+          "z": 2.0
+        }
+      }
+    },
+    {
+      "name": "road_star",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 6.4585,
+          "z": -109.51
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 6.4585,
+          "z": -129.51
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 6.4585,
+          "z": -131.51
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 6.4585,
+          "z": -137.51
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 6.4585,
+          "z": -133.51
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 6.4585,
+          "z": -135.51
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 6.4585,
+          "z": -139.51
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": true,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.4992648,
+          "z": 14.0
+        },
+        "size": {
+          "x": 10.0,
+          "y": 0.9985296,
+          "z": 32.0
+        }
+      }
+    },
+    {
+      "name": "road_star",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 39.92,
+          "z": -185.52
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 13.917,
+          "z": -179.52
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": true,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.4992648,
+          "z": -7.0
+        },
+        "size": {
+          "x": 10.0,
+          "y": 0.9985296,
+          "z": 14.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 13.917,
+          "z": -181.52
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 13.917,
+          "z": -187.52
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 13.917,
+          "z": -183.52
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 13.917,
+          "z": -185.52
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 13.917,
+          "z": -189.52
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 39.92,
+          "z": -187.52
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 39.92,
+          "z": -189.52
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": true,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.4992648,
+          "z": 1.0
+        },
+        "size": {
+          "x": 10.0,
+          "y": 0.9985296,
+          "z": 6.0
+        }
+      }
+    },
+    {
+      "name": "road_star",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 13.917,
+          "z": -193.52
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0,
+          "w": 0.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 54.836,
+          "z": -267.54
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": true,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.4992648,
+          "z": -11.0
+        },
+        "size": {
+          "x": 10.0,
+          "y": 0.9985296,
+          "z": 22.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 54.836,
+          "z": -269.54
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 54.836,
+          "z": -271.54
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 54.836,
+          "z": -273.54
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 54.836,
+          "z": -275.54
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 54.836,
+          "z": -277.54
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 54.836,
+          "z": -279.54
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 54.836,
+          "z": -281.54
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 54.836,
+          "z": -283.54
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 54.836,
+          "z": -285.54
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_star",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 54.836,
+          "z": -289.54
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0,
+          "w": 0.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -22.8,
+          "z": -170.990021
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -22.8,
+          "z": -172.990021
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -22.8,
+          "z": -168.990021
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -22.8,
+          "z": -178.990021
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -22.8,
+          "z": -174.990021
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -22.8,
+          "z": -176.990021
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -22.8,
+          "z": -180.990021
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -22.8,
+          "z": -182.990021
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -22.8,
+          "z": -184.990021
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_star",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -22.8,
+          "z": -166.990021
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -22.8,
+          "z": -186.99
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -22.8,
+          "z": -188.99
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -22.8,
+          "z": -194.99
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.05,
+          "y": -22.8,
+          "z": -190.99
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -22.8,
+          "z": -192.99
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -22.8,
+          "z": -196.99
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -15.341,
+          "z": -249.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": true,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.4992648,
+          "z": -17.0
+        },
+        "size": {
+          "x": 10.0,
+          "y": 0.9985296,
+          "z": 34.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -15.341,
+          "z": -251.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -15.341,
+          "z": -253.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -15.341,
+          "z": -255.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -15.341,
+          "z": -257.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -15.341,
+          "z": -259.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -15.341,
+          "z": -265.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -15.341,
+          "z": -261.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -15.341,
+          "z": -263.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -15.341,
+          "z": -267.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -15.341,
+          "z": -271.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -15.341,
+          "z": -269.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -15.341,
+          "z": -273.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -15.341,
+          "z": -275.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -15.341,
+          "z": -277.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -22.799,
+          "z": -317.01
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": true,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.4992648,
+          "z": -8.0
+        },
+        "size": {
+          "x": 10.0,
+          "y": 0.9985296,
+          "z": 16.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -22.799,
+          "z": -319.01
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -22.799,
+          "z": -321.01
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -22.799,
+          "z": -323.01
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -22.799,
+          "z": -325.01
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -22.799,
+          "z": -331.01
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -22.799,
+          "z": -327.01
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -22.799,
+          "z": -329.01
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -22.8,
+          "z": -202.99
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -22.8,
+          "z": -198.99
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -22.8,
+          "z": -200.99
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -22.8,
+          "z": -204.99
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -22.8,
+          "z": -206.99
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_s",
+      "roatMaterial": [
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -22.8,
+          "z": -208.99
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": true,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.4992648,
+          "z": 20.0
+        },
+        "size": {
+          "x": 10.0,
+          "y": 0.9985296,
+          "z": 44.0
+        }
+      }
+    },
+    {
+      "name": "road_slope",
+      "roatMaterial": [
+        "floor_W",
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": -1.0,
+          "z": -48.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_slope",
+      "roatMaterial": [
+        "floor",
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 7.457,
+          "z": -86.006
+        },
+        "rotation": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 0.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_slope",
+      "roatMaterial": [
+        "floor_W",
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 6.4585,
+          "z": -141.51
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_slope",
+      "roatMaterial": [
+        "floor",
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 14.9155,
+          "z": -179.515991
+        },
+        "rotation": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 0.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_slope",
+      "roatMaterial": [
+        "floor_W",
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 39.92,
+          "z": -191.52
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_slope",
+      "roatMaterial": [
+        "floor",
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 48.377,
+          "z": -229.526
+        },
+        "rotation": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 0.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_slope",
+      "roatMaterial": [
+        "floor_W",
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 47.378,
+          "z": -229.53
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_slope",
+      "roatMaterial": [
+        "floor",
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 55.835,
+          "z": -267.536
+        },
+        "rotation": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 0.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_slope",
+      "roatMaterial": [
+        "floor_W",
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -22.799,
+          "z": -210.99
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_slope",
+      "roatMaterial": [
+        "floor",
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -14.342,
+          "z": -248.996
+        },
+        "rotation": {
+          "x": 1.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 0.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_slope",
+      "roatMaterial": [
+        "floor_W",
+        "floor"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -22.799,
+          "z": -317.01
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": -1.0,
+          "z": 0.0,
+          "w": 0.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "name": "road_slope",
+      "roatMaterial": [
+        "floor",
+        "floor_W"
+      ],
+      "transformData": {
+        "position": {
+          "x": -0.0500000119,
+          "y": -14.342,
+          "z": -279.004028
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 1.0,
+          "w": 0.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "isAddBoxCollider": false,
+      "colliderSize": {
+        "center": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    }
+  ],
+  "wingDatas": [
+    {
+      "wingType": 3,
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": -18.45,
+          "z": -224.05
+        },
+        "rotation": {
+          "x": -0.5,
+          "y": 0.5,
+          "z": -0.5,
+          "w": 0.5
+        },
+        "localScale": {
+          "x": 2.6,
+          "y": 2.6,
+          "z": 2.6
+        }
+      }
+    },
+    {
+      "wingType": 1,
+      "transformData": {
+        "position": {
+          "x": -3.0,
+          "y": 58.25,
+          "z": -273.01
+        },
+        "rotation": {
+          "x": -0.5,
+          "y": 0.5,
+          "z": -0.5,
+          "w": 0.5
+        },
+        "localScale": {
+          "x": 2.6,
+          "y": 2.6,
+          "z": 2.6
+        }
+      }
+    },
+    {
+      "wingType": 1,
+      "transformData": {
+        "position": {
+          "x": 3.25,
+          "y": 58.25,
+          "z": -273.01
+        },
+        "rotation": {
+          "x": -0.5,
+          "y": 0.5,
+          "z": -0.5,
+          "w": 0.5
+        },
+        "localScale": {
+          "x": 2.6,
+          "y": 2.6,
+          "z": 2.6
+        }
+      }
+    },
+    {
+      "wingType": 1,
+      "transformData": {
+        "position": {
+          "x": 3.25,
+          "y": 58.25,
+          "z": -259.01
+        },
+        "rotation": {
+          "x": -0.5,
+          "y": 0.5,
+          "z": -0.5,
+          "w": 0.5
+        },
+        "localScale": {
+          "x": 2.6,
+          "y": 2.6,
+          "z": 2.6
+        }
+      }
+    },
+    {
+      "wingType": 3,
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 18.0,
+          "z": -172.9
+        },
+        "rotation": {
+          "x": -0.5,
+          "y": 0.5,
+          "z": -0.5,
+          "w": 0.5
+        },
+        "localScale": {
+          "x": 2.6,
+          "y": 2.6,
+          "z": 2.6
+        }
+      }
+    },
+    {
+      "wingType": 1,
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 17.25,
+          "z": -165.0
+        },
+        "rotation": {
+          "x": -0.5,
+          "y": 0.5,
+          "z": -0.5,
+          "w": 0.5
+        },
+        "localScale": {
+          "x": 2.6,
+          "y": 2.6,
+          "z": 2.6
+        }
+      }
+    },
+    {
+      "wingType": 1,
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 14.75,
+          "z": -161.25
+        },
+        "rotation": {
+          "x": -0.5,
+          "y": 0.5,
+          "z": -0.5,
+          "w": 0.5
+        },
+        "localScale": {
+          "x": 2.6,
+          "y": 2.6,
+          "z": 2.6
+        }
+      }
+    },
+    {
+      "wingType": 3,
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 10.0,
+          "z": -152.9
+        },
+        "rotation": {
+          "x": -0.5,
+          "y": 0.5,
+          "z": -0.5,
+          "w": 0.5
+        },
+        "localScale": {
+          "x": 2.6,
+          "y": 2.6,
+          "z": 2.6
+        }
+      }
+    },
+    {
+      "wingType": 3,
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 9.5,
+          "z": -144.9
+        },
+        "rotation": {
+          "x": -0.5,
+          "y": 0.5,
+          "z": -0.5,
+          "w": 0.5
+        },
+        "localScale": {
+          "x": 2.6,
+          "y": 2.6,
+          "z": 2.6
+        }
+      }
+    },
+    {
+      "wingType": 3,
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 9.5,
+          "z": -140.9
+        },
+        "rotation": {
+          "x": -0.5,
+          "y": 0.5,
+          "z": -0.5,
+          "w": 0.5
+        },
+        "localScale": {
+          "x": 2.6,
+          "y": 2.6,
+          "z": 2.6
+        }
+      }
+    },
+    {
+      "wingType": 3,
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 9.5,
+          "z": -116.9
+        },
+        "rotation": {
+          "x": -0.5,
+          "y": 0.5,
+          "z": -0.5,
+          "w": 0.5
+        },
+        "localScale": {
+          "x": 2.6,
+          "y": 2.6,
+          "z": 2.6
+        }
+      }
+    },
+    {
+      "wingType": 3,
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 9.5,
+          "z": -113.15
+        },
+        "rotation": {
+          "x": -0.5,
+          "y": 0.5,
+          "z": -0.5,
+          "w": 0.5
+        },
+        "localScale": {
+          "x": 2.6,
+          "y": 2.6,
+          "z": 2.6
+        }
+      }
+    },
+    {
+      "wingType": 3,
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 1.75,
+          "z": -58.91
+        },
+        "rotation": {
+          "x": -0.5,
+          "y": 0.5,
+          "z": -0.5,
+          "w": 0.5
+        },
+        "localScale": {
+          "x": 2.6,
+          "y": 2.6,
+          "z": 2.6
+        }
+      }
+    },
+    {
+      "wingType": 1,
+      "transformData": {
+        "position": {
+          "x": 3.25,
+          "y": 50.75,
+          "z": -227.009
+        },
+        "rotation": {
+          "x": -0.5,
+          "y": 0.5,
+          "z": -0.5,
+          "w": 0.5
+        },
+        "localScale": {
+          "x": 2.6,
+          "y": 2.6,
+          "z": 2.6
+        }
+      }
+    },
+    {
+      "wingType": 1,
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 12.25,
+          "z": -158.25
+        },
+        "rotation": {
+          "x": -0.5,
+          "y": 0.5,
+          "z": -0.5,
+          "w": 0.5
+        },
+        "localScale": {
+          "x": 2.6,
+          "y": 2.6,
+          "z": 2.6
+        }
+      }
+    },
+    {
+      "wingType": 3,
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 1.75,
+          "z": -15.75
+        },
+        "rotation": {
+          "x": -0.5,
+          "y": 0.5,
+          "z": -0.5,
+          "w": 0.5
+        },
+        "localScale": {
+          "x": 2.6,
+          "y": 2.6,
+          "z": 2.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": -4.0,
+          "y": 1.75,
+          "z": -24.81
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 1.75,
+          "z": -24.81
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": 4.0,
+          "y": 1.75,
+          "z": -24.81
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": 4.0,
+          "y": 1.75,
+          "z": -26.81
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": 4.0,
+          "y": 1.75,
+          "z": -28.81
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": 2.0,
+          "y": 1.75,
+          "z": -28.81
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 1.75,
+          "z": -34.96
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": -2.25,
+          "y": 1.75,
+          "z": -36.79
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": -4.0,
+          "y": 1.75,
+          "z": -38.79
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 1.75,
+          "z": -43.04
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": 2.25,
+          "y": 1.75,
+          "z": -36.79
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": 3.75,
+          "y": 1.75,
+          "z": -38.79
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": -2.25,
+          "y": 1.75,
+          "z": -41.04
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": 2.25,
+          "y": 1.75,
+          "z": -41.04
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": 4.0,
+          "y": 5.26,
+          "z": -64.31
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": -4.0,
+          "y": 5.26,
+          "z": -64.31
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": -4.0,
+          "y": 6.01,
+          "z": -65.81
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": -2.0,
+          "y": 6.01,
+          "z": -65.81
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": 4.0,
+          "y": 7.73,
+          "z": -67.56
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": -4.0,
+          "y": 9.25,
+          "z": -71.06
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": 1.5,
+          "y": 8.2325,
+          "z": -68.665
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": 3.0,
+          "y": 8.9825,
+          "z": -69.9775
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": 1.68750012,
+          "y": 9.17,
+          "z": -71.4775
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 9.17,
+          "z": -72.9775
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": -1.3125,
+          "y": 9.17,
+          "z": -74.665
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": -3.0,
+          "y": 9.17,
+          "z": -75.9775
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": -1.3125,
+          "y": 9.17,
+          "z": -77.665
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": 0.1875,
+          "y": 9.17,
+          "z": -79.165
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 7.67,
+          "z": -67.54
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": -4.0,
+          "y": 9.48,
+          "z": -112.56
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": 3.75,
+          "y": 9.48,
+          "z": -112.56
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": -4.0,
+          "y": 9.48,
+          "z": -116.31
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": 3.75,
+          "y": 9.48,
+          "z": -116.31
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": -4.0,
+          "y": 9.53,
+          "z": -122.5
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": 3.75,
+          "y": 9.53,
+          "z": -122.5
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": 2.89,
+          "y": 43.76,
+          "z": -194.4
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": 0.14,
+          "y": 43.76,
+          "z": -194.4
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": -2.61,
+          "y": 43.76,
+          "z": -194.4
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": 0.14,
+          "y": 43.76,
+          "z": -190.4
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": -2.25,
+          "y": 58.75,
+          "z": -260.5
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": 2.5,
+          "y": 58.75,
+          "z": -260.5
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": -2.25,
+          "y": 58.75,
+          "z": -262.5
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": 2.5,
+          "y": 58.75,
+          "z": -262.5
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": 2.5,
+          "y": 58.75,
+          "z": -264.5
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": -2.25,
+          "y": 58.75,
+          "z": -264.5
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": -2.25,
+          "y": 58.75,
+          "z": -266.5
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": 2.5,
+          "y": 58.75,
+          "z": -266.5
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": 2.5,
+          "y": 58.75,
+          "z": -268.5
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": -2.25,
+          "y": 58.75,
+          "z": -268.5
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": -4.01,
+          "y": -19.83,
+          "z": -201.85
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": -0.01,
+          "y": -19.83,
+          "z": -201.85
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": 3.74,
+          "y": -19.83,
+          "z": -201.85
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": -11.25,
+          "z": -290.05
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": 1.5,
+          "y": -11.4375,
+          "z": -291.175
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": 3.0,
+          "y": -12.0015,
+          "z": -292.4875
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": 1.68750012,
+          "y": -12.564,
+          "z": -293.9875
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": -13.26,
+          "z": -295.4875
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": -1.3125,
+          "y": -14.2680006,
+          "z": -297.175
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": -3.0,
+          "y": -15.186,
+          "z": -298.4875
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": -1.3125,
+          "y": -16.314,
+          "z": -300.175
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": 0.1875,
+          "y": -17.082,
+          "z": -301.675
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": -19.0,
+          "z": -307.81
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": 1.5,
+          "y": -19.0,
+          "z": -308.935
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": 3.0,
+          "y": -19.0015011,
+          "z": -310.2475
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": 1.68750012,
+          "y": -19.0,
+          "z": -311.7475
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": -19.1319981,
+          "z": -313.2475
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": -1.3125,
+          "y": -19.204,
+          "z": -314.935
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": -3.0,
+          "y": -19.186,
+          "z": -316.2475
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": -1.3125,
+          "y": -19.192,
+          "z": -317.935
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 0,
+      "transformData": {
+        "position": {
+          "x": 0.1875,
+          "y": -19.21,
+          "z": -319.435
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": 0.05,
+          "y": -19.21,
+          "z": -321.43
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": -2.06,
+          "y": -19.21,
+          "z": -321.43
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": 2.1025,
+          "y": -19.21,
+          "z": -321.43
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": 4.1025,
+          "y": -19.21,
+          "z": -321.43
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": -4.1475,
+          "y": -19.21,
+          "z": -321.43
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": 0.06,
+          "y": -12.931,
+          "z": -241.36
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": -2.19,
+          "y": -12.931,
+          "z": -243.19
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": -3.94,
+          "y": -12.931,
+          "z": -245.19
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": 0.05999991,
+          "y": -12.931,
+          "z": -249.44
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": 2.31,
+          "y": -12.931,
+          "z": -243.19
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": 3.81,
+          "y": -12.931,
+          "z": -245.19
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": -2.19,
+          "y": -12.931,
+          "z": -247.44
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": 2.31,
+          "y": -12.931,
+          "z": -247.44
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": 0.06,
+          "y": -12.931,
+          "z": -258.590027
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": -2.19,
+          "y": -12.931,
+          "z": -260.42
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": -3.94,
+          "y": -12.931,
+          "z": -262.42
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": 0.05999991,
+          "y": -12.931,
+          "z": -266.67
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": 2.31,
+          "y": -12.931,
+          "z": -260.42
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": 3.81,
+          "y": -12.931,
+          "z": -262.42
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": -2.19,
+          "y": -12.931,
+          "z": -264.67
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": 2.31,
+          "y": -12.931,
+          "z": -264.67
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": 0.06,
+          "y": -12.931,
+          "z": -279.77002
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": -2.19,
+          "y": -12.931,
+          "z": -281.6
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": -3.94,
+          "y": -12.931,
+          "z": -283.6
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": 0.05999991,
+          "y": -12.931,
+          "z": -287.85
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": 2.31,
+          "y": -12.931,
+          "z": -281.6
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": 3.81,
+          "y": -12.931,
+          "z": -283.6
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": -2.19,
+          "y": -12.931,
+          "z": -285.85
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    },
+    {
+      "wingType": 2,
+      "transformData": {
+        "position": {
+          "x": 2.31,
+          "y": -12.931,
+          "z": -285.85
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.6,
+          "y": 0.6,
+          "z": 0.6
+        }
+      }
+    }
+  ],
+  "floorDatas": [
+    {
+      "name": "SC_Bld_01_Brown",
+      "transformData": {
+        "position": {
+          "x": -26.6,
+          "y": -60.6,
+          "z": -55.4
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      }
+    },
+    {
+      "name": "SC_Bld_01_Brown",
+      "transformData": {
+        "position": {
+          "x": 32.6,
+          "y": -37.7,
+          "z": -139.1
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.52693,
+          "y": 0.52693,
+          "z": 0.52693
+        }
+      }
+    },
+    {
+      "name": "SC_Bld_01_Brown",
+      "transformData": {
+        "position": {
+          "x": -31.7,
+          "y": -50.3,
+          "z": -203.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.8425083,
+          "y": 1.14555848,
+          "z": 0.8425083
+        }
+      }
+    },
+    {
+      "name": "SC_Bld_01_Brown",
+      "transformData": {
+        "position": {
+          "x": 33.0,
+          "y": -66.6,
+          "z": -278.3
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": -0.2537079,
+          "z": 0.0,
+          "w": 0.9672809
+        },
+        "localScale": {
+          "x": 0.8425083,
+          "y": 1.14555848,
+          "z": 0.8425083
+        }
+      }
+    },
+    {
+      "name": "SC_Bld_01_Brown",
+      "transformData": {
+        "position": {
+          "x": -44.8,
+          "y": -81.6,
+          "z": -308.9
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": -0.2537079,
+          "z": 0.0,
+          "w": 0.9672809
+        },
+        "localScale": {
+          "x": 0.8425083,
+          "y": 1.14555848,
+          "z": 0.8425083
+        }
+      }
+    }
+  ],
+  "jumpTriggerDatas": [
+    {
+      "moveState": 1,
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 6.9585,
+          "z": -88.51
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "szieTransform": {
+        "position": {
+          "x": 0.0,
+          "y": 6.9585,
+          "z": -98.9080048
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 10.0000191,
+          "y": 0.999999344,
+          "z": 21.7947941
+        }
+      }
+    },
+    {
+      "moveState": 3,
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 14.417,
+          "z": -194.02
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "szieTransform": {
+        "position": {
+          "x": 0.0,
+          "y": 14.417,
+          "z": -194.02
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    },
+    {
+      "moveState": 3,
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 55.336,
+          "z": -290.54
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "szieTransform": {
+        "position": {
+          "x": 0.0,
+          "y": 55.336,
+          "z": -293.077
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      }
+    }
+  ],
+  "turnTriggerDatas": [],
+  "moveCloudDatas": [],
+  "upCloudDatas": [
+    {
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 15.05,
+          "z": -183.75
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "cloudUpPostiionData": {
+        "position": {
+          "x": 0.0,
+          "y": 41.07,
+          "z": -183.75
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 1.0,
+          "z": 1.0
+        }
+      },
+      "fXShapeData": {
+        "position": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        },
+        "localScale": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0
+        }
+      },
+      "colliderSizeData": {
+        "center": {
+          "x": 0.0,
+          "y": 1.0,
+          "z": 0.0
+        },
+        "size": {
+          "x": 10.0,
+          "y": 2.0,
+          "z": 3.0
+        }
+      }
+    }
+  ],
+  "poolDatas": [
+    {
+      "poolType": 2,
+      "transformData": {
+        "position": {
+          "x": 3.25,
+          "y": 7.457,
+          "z": -123.51
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.35,
+          "y": 0.3,
+          "z": 0.75
+        }
+      },
+      "waterTransformData": [
+        {
+          "position": {
+            "x": 3.25,
+            "y": 7.457,
+            "z": -123.51
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        },
+        {
+          "position": {
+            "x": 3.25,
+            "y": 7.69699955,
+            "z": -123.51
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    {
+      "poolType": 4,
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": -0.0014707,
+          "z": -18.0
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 0.3,
+          "z": 0.75
+        }
+      },
+      "waterTransformData": [
+        {
+          "position": {
+            "x": 0.0,
+            "y": -0.00147069991,
+            "z": -18.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        },
+        {
+          "position": {
+            "x": 0.0,
+            "y": 0.229529291,
+            "z": -18.0
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    {
+      "poolType": 2,
+      "transformData": {
+        "position": {
+          "x": -3.05,
+          "y": -21.801,
+          "z": -204.99
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.35,
+          "y": 0.3,
+          "z": 0.5
+        }
+      },
+      "waterTransformData": [
+        {
+          "position": {
+            "x": -3.30000138,
+            "y": -21.800972,
+            "z": -204.99
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        },
+        {
+          "position": {
+            "x": -3.29499984,
+            "y": -21.561,
+            "z": -204.99
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    {
+      "poolType": 2,
+      "transformData": {
+        "position": {
+          "x": -3.0,
+          "y": 7.457,
+          "z": -123.51
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.35,
+          "y": 0.3,
+          "z": 0.75
+        }
+      },
+      "waterTransformData": [
+        {
+          "position": {
+            "x": -3.25000143,
+            "y": 7.45702934,
+            "z": -123.51
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        },
+        {
+          "position": {
+            "x": -3.245,
+            "y": 7.69699955,
+            "z": -123.51
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    {
+      "poolType": 4,
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 55.835,
+          "z": -277.54
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 1.0,
+          "y": 0.3,
+          "z": 0.75
+        }
+      },
+      "waterTransformData": [
+        {
+          "position": {
+            "x": 0.0,
+            "y": 55.835,
+            "z": -277.54
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        },
+        {
+          "position": {
+            "x": 0.0,
+            "y": 56.0659981,
+            "z": -277.54
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    },
+    {
+      "poolType": 2,
+      "transformData": {
+        "position": {
+          "x": 3.2,
+          "y": -21.801,
+          "z": -204.99
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 0.35,
+          "y": 0.3,
+          "z": 0.5
+        }
+      },
+      "waterTransformData": [
+        {
+          "position": {
+            "x": 3.2,
+            "y": -21.801,
+            "z": -204.99
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        },
+        {
+          "position": {
+            "x": 3.2,
+            "y": -21.561,
+            "z": -204.99
+          },
+          "rotation": {
+            "x": 0.0,
+            "y": 0.0,
+            "z": 0.0,
+            "w": 1.0
+          },
+          "localScale": {
+            "x": 1.0,
+            "y": 1.0,
+            "z": 1.0
+          }
+        }
+      ]
+    }
+  ],
+  "poolTriggerDatas": [
+    {
+      "poolTriggerType": 1,
+      "transformData": {
+        "position": {
+          "x": 0.004,
+          "y": -2.99953127,
+          "z": -21.003
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 9.033208,
+          "y": 1.0,
+          "z": 5.24291658
+        }
+      }
+    },
+    {
+      "poolTriggerType": 0,
+      "transformData": {
+        "position": {
+          "x": 3.244,
+          "y": 4.458498,
+          "z": -126.53
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 3.15178561,
+          "y": 1.0,
+          "z": 5.29341173
+        }
+      }
+    },
+    {
+      "poolTriggerType": 0,
+      "transformData": {
+        "position": {
+          "x": -3.26,
+          "y": 4.458498,
+          "z": -126.53
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 3.15178561,
+          "y": 1.0,
+          "z": 5.29341173
+        }
+      }
+    },
+    {
+      "poolTriggerType": 0,
+      "transformData": {
+        "position": {
+          "x": -3.3078,
+          "y": -24.8,
+          "z": -206.9939
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 3.18381,
+          "y": 1.0,
+          "z": 3.533524
+        }
+      }
+    },
+    {
+      "poolTriggerType": 0,
+      "transformData": {
+        "position": {
+          "x": 3.176,
+          "y": -24.8,
+          "z": -206.9939
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 3.18381,
+          "y": 1.0,
+          "z": 3.533524
+        }
+      }
+    },
+    {
+      "poolTriggerType": 1,
+      "transformData": {
+        "position": {
+          "x": 0.0,
+          "y": 52.8359947,
+          "z": -280.526337
+        },
+        "rotation": {
+          "x": 0.0,
+          "y": 0.0,
+          "z": 0.0,
+          "w": 1.0
+        },
+        "localScale": {
+          "x": 9.03682,
+          "y": 1.0,
+          "z": 5.24993944
+        }
+      }
+    }
+  ],
+  "doorBaseDatas": [],
+  "bridgeDatas": [],
+  "floor": {
+    "position": {
+      "x": 0.0,
+      "y": -33.8,
+      "z": -163.81
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "localScale": {
+      "x": 15.0000381,
+      "y": 0.9999979,
+      "z": 337.6249
+    }
+  },
+  "endGameObject": {
+    "position": {
+      "x": -0.05,
+      "y": -21.8,
+      "z": -331.01
+    },
+    "rotation": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 1.0
+    },
+    "localScale": {
+      "x": 1.0,
+      "y": 1.0,
+      "z": 1.0
+    }
+  },
+  "devilRoleDatas": [],
+  "columns": [],
+  "arcadeGames": [
+    {
+      "position": {
+        "x": 0.0210624933,
+        "y": 9.46,
+        "z": -125.04
+      },
+      "rotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0,
+        "w": 1.0
+      },
+      "localScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    }
+  ],
+  "giftBoxs": []
+}

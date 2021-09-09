@@ -1,0 +1,4 @@
+repository "angel@ssl://kailea@sh03-plasticscm.unity.cn:8787"
+  path "/"
+    smartbranch "/main/liu1421963683" changeset "743"                                                     
+     

@@ -1,0 +1,36 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "900492907594-panedkpahs6s3ad2t9k3dkdvaego8f4c.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnlj56BPTiqh5FE1EIWh6pss24BR7LNdk"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:900492907594:ios:652257858a19f5b0d582b3", 
+        "android_client_info": {
+          "package_name": "com.millecrepestudios.HeavenorHell"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "heaven-or-hell-c5db7.appspot.com", 
+    "project_id": "heaven-or-hell-c5db7", 
+    "project_number": "900492907594"
+  }
+}

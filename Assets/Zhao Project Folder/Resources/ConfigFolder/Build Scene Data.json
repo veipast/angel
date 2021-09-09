@@ -1,0 +1,551 @@
+{
+  "hellUpgrades": {
+    "1": [
+      {
+        "upgradeID": 1,
+        "upgradeName": [
+          "River"
+        ],
+        "upgradeLevel": 4,
+        "upgradeCost": 100,
+        "isUnlock": false
+      },
+      {
+        "upgradeID": 2,
+        "upgradeName": [
+          "Tree",
+          "house"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 200,
+        "isUnlock": false
+      }
+    ],
+    "2": [
+      {
+        "upgradeID": 1,
+        "upgradeName": [
+          "Flat",
+          "Rock",
+          "ladder"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 300,
+        "isUnlock": false
+      },
+      {
+        "upgradeID": 2,
+        "upgradeName": [
+          "Tree",
+          "House"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 600,
+        "isUnlock": false
+      },
+      {
+        "upgradeID": 3,
+        "upgradeName": [
+          "wall"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 900,
+        "isUnlock": false
+      }
+    ],
+    "3": [
+      {
+        "upgradeID": 1,
+        "upgradeName": [
+          "River",
+          "rock"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 1200,
+        "isUnlock": false
+      },
+      {
+        "upgradeID": 2,
+        "upgradeName": [
+          "dock",
+          "fence",
+          "ladder"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 1800,
+        "isUnlock": false
+      }
+    ],
+    "4": [
+      {
+        "upgradeID": 1,
+        "upgradeName": [
+          "Flat",
+          "prop",
+          "Flag_011"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 2400,
+        "isUnlock": false
+      }
+    ],
+    "5": [
+      {
+        "upgradeID": 1,
+        "upgradeName": [
+          "Flat",
+          "rock"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 2700,
+        "isUnlock": false
+      },
+      {
+        "upgradeID": 2,
+        "upgradeName": [
+          "house"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 3000,
+        "isUnlock": false
+      },
+      {
+        "upgradeID": 3,
+        "upgradeName": [
+          "fence"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 3600,
+        "isUnlock": false
+      }
+    ],
+    "6": [
+      {
+        "upgradeID": 1,
+        "upgradeName": [
+          "River",
+          "rock"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 4000,
+        "isUnlock": false
+      },
+      {
+        "upgradeID": 2,
+        "upgradeName": [
+          "wood"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 4500,
+        "isUnlock": false
+      },
+      {
+        "upgradeID": 3,
+        "upgradeName": [
+          "bone"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 5500,
+        "isUnlock": false
+      }
+    ],
+    "7": [
+      {
+        "upgradeID": 1,
+        "upgradeName": [
+          "Path"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 6500,
+        "isUnlock": false
+      },
+      {
+        "upgradeID": 2,
+        "upgradeName": [
+          "prop",
+          "fence"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 7500,
+        "isUnlock": false
+      }
+    ],
+    "8": [
+      {
+        "upgradeID": 1,
+        "upgradeName": [
+          "Path"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 8500,
+        "isUnlock": false
+      },
+      {
+        "upgradeID": 2,
+        "upgradeName": [
+          "stone"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 9500,
+        "isUnlock": false
+      }
+    ],
+    "9": [
+      {
+        "upgradeID": 1,
+        "upgradeName": [
+          "River",
+          "tree"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 10000,
+        "isUnlock": false
+      },
+      {
+        "upgradeID": 2,
+        "upgradeName": [
+          "stone"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 12000,
+        "isUnlock": false
+      }
+    ],
+    "10": [
+      {
+        "upgradeID": 1,
+        "upgradeName": [
+          "Path",
+          "Rock"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 15000,
+        "isUnlock": false
+      },
+      {
+        "upgradeID": 2,
+        "upgradeName": [
+          "house"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 18000,
+        "isUnlock": false
+      },
+      {
+        "upgradeID": 3,
+        "upgradeName": [
+          "fence"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 20000,
+        "isUnlock": false
+      }
+    ],
+    "11": [
+      {
+        "upgradeID": 1,
+        "upgradeName": [
+          "hill"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 25000,
+        "isUnlock": false
+      },
+      {
+        "upgradeID": 2,
+        "upgradeName": [
+          "stone"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 30000,
+        "isUnlock": false
+      },
+      {
+        "upgradeID": 3,
+        "upgradeName": [
+          "Statue"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 40000,
+        "isUnlock": false
+      }
+    ]
+  },
+  "heavenUpgrades": {
+    "1": [
+      {
+        "upgradeID": 1,
+        "upgradeName": [
+          "Flat",
+          "stone"
+        ],
+        "upgradeLevel": 4,
+        "upgradeCost": 100,
+        "isUnlock": false
+      },
+      {
+        "upgradeID": 2,
+        "upgradeName": [
+          "house",
+          "fence"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 200,
+        "isUnlock": false
+      }
+    ],
+    "2": [
+      {
+        "upgradeID": 1,
+        "upgradeName": [
+          "Hill",
+          "stone"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 300,
+        "isUnlock": false
+      },
+      {
+        "upgradeID": 2,
+        "upgradeName": [
+          "House"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 600,
+        "isUnlock": false
+      },
+      {
+        "upgradeID": 3,
+        "upgradeName": [
+          "fence"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 900,
+        "isUnlock": false
+      }
+    ],
+    "3": [
+      {
+        "upgradeID": 1,
+        "upgradeName": [
+          "Flat",
+          "stone",
+          "tree"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 1200,
+        "isUnlock": false
+      },
+      {
+        "upgradeID": 2,
+        "upgradeName": [
+          "house",
+          "tent"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 1800,
+        "isUnlock": false
+      }
+    ],
+    "4": [
+      {
+        "upgradeID": 1,
+        "upgradeName": [
+          "Hill",
+          "tree",
+          "Fountain"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 2400,
+        "isUnlock": false
+      }
+    ],
+    "5": [
+      {
+        "upgradeID": 1,
+        "upgradeName": [
+          "Flat",
+          "stone"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 2700,
+        "isUnlock": false
+      },
+      {
+        "upgradeID": 2,
+        "upgradeName": [
+          "house"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 3000,
+        "isUnlock": false
+      },
+      {
+        "upgradeID": 3,
+        "upgradeName": [
+          "fence",
+          "tree"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 3600,
+        "isUnlock": false
+      }
+    ],
+    "6": [
+      {
+        "upgradeID": 1,
+        "upgradeName": [
+          "Flat",
+          "stone"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 4000,
+        "isUnlock": false
+      },
+      {
+        "upgradeID": 2,
+        "upgradeName": [
+          "house"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 4500,
+        "isUnlock": false
+      }
+    ],
+    "7": [
+      {
+        "upgradeID": 1,
+        "upgradeName": [
+          "Hill",
+          "tree"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 5500,
+        "isUnlock": false
+      }
+    ],
+    "8": [
+      {
+        "upgradeID": 1,
+        "upgradeName": [
+          "River",
+          "Tree"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 6500,
+        "isUnlock": false
+      }
+    ],
+    "9": [
+      {
+        "upgradeID": 1,
+        "upgradeName": [
+          "Hill"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 7500,
+        "isUnlock": false
+      },
+      {
+        "upgradeID": 2,
+        "upgradeName": [
+          "tree"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 8500,
+        "isUnlock": false
+      }
+    ],
+    "10": [
+      {
+        "upgradeID": 1,
+        "upgradeName": [
+          "Pond",
+          "stone"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 9500,
+        "isUnlock": false
+      },
+      {
+        "upgradeID": 2,
+        "upgradeName": [
+          "tree",
+          "grass"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 10000,
+        "isUnlock": false
+      },
+      {
+        "upgradeID": 3,
+        "upgradeName": [
+          "house"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 12000,
+        "isUnlock": false
+      }
+    ],
+    "11": [
+      {
+        "upgradeID": 1,
+        "upgradeName": [
+          "River",
+          "stone"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 15000,
+        "isUnlock": false
+      },
+      {
+        "upgradeID": 2,
+        "upgradeName": [
+          "tree",
+          "fence"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 18000,
+        "isUnlock": false
+      },
+      {
+        "upgradeID": 3,
+        "upgradeName": [
+          "crops"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 20000,
+        "isUnlock": false
+      }
+    ],
+    "12": [
+      {
+        "upgradeID": 1,
+        "upgradeName": [
+          "Hill"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 25000,
+        "isUnlock": false
+      },
+      {
+        "upgradeID": 2,
+        "upgradeName": [
+          "tree"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 30000,
+        "isUnlock": false
+      },
+      {
+        "upgradeID": 3,
+        "upgradeName": [
+          "house"
+        ],
+        "upgradeLevel": 5,
+        "upgradeCost": 40000,
+        "isUnlock": false
+      }
+    ]
+  }
+}

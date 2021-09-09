@@ -1,0 +1,222 @@
+[
+  {
+    "roleModelID": 0,
+    "roleName": "Josh",
+    "roleAge": 32,
+    "roleSexIsM": true,
+    "roleRef": "He did nothing bad",
+    "roleRef_Chinese": "他没做过什么坏事",
+    "startNumber": 50,
+    "levelTargetType": 0,
+    "_ID": 0
+  },
+  {
+    "roleModelID": 1,
+    "roleName": "Ben",
+    "roleAge": 62,
+    "roleSexIsM": true,
+    "roleRef": "He drove drunk many times",
+    "roleRef_Chinese": "他醉驾很多次",
+    "startNumber": 50,
+    "levelTargetType": 1,
+    "_ID": 8
+  },
+  {
+    "roleModelID": 2,
+    "roleName": "Susan",
+    "roleAge": 38,
+    "roleSexIsM": false,
+    "roleRef": "She was a good mom",
+    "roleRef_Chinese": "她是一个好母亲",
+    "startNumber": 50,
+    "levelTargetType": 0,
+    "_ID": 1
+  },
+  {
+    "roleModelID": 3,
+    "roleName": "Kevin",
+    "roleAge": 21,
+    "roleSexIsM": true,
+    "roleRef": "He was a lonely boy",
+    "roleRef_Chinese": "他是孤独的男孩",
+    "startNumber": 50,
+    "levelTargetType": 0,
+    "_ID": 13
+  },
+  {
+    "roleModelID": 4,
+    "roleName": "Edward",
+    "roleAge": 42,
+    "roleSexIsM": true,
+    "roleRef": "He murdered his wife",
+    "roleRef_Chinese": "他谋杀了他的妻子",
+    "startNumber": 50,
+    "levelTargetType": 1,
+    "_ID": 11
+  },
+  {
+    "roleModelID": 5,
+    "roleName": "Lucy",
+    "roleAge": 31,
+    "roleSexIsM": false,
+    "roleRef": "She was a terrible teacher",
+    "roleRef_Chinese": "她是个糟糕的老师",
+    "startNumber": 50,
+    "levelTargetType": 1,
+    "_ID": 2
+  },
+  {
+    "roleModelID": 6,
+    "roleName": "Kate",
+    "roleAge": 35,
+    "roleSexIsM": false,
+    "roleRef": "A qualified waitress",
+    "roleRef_Chinese": "一个优秀的服务员",
+    "startNumber": 50,
+    "levelTargetType": 0,
+    "_ID": 3
+  },
+  {
+    "roleModelID": 7,
+    "roleName": "Adam",
+    "roleAge": 48,
+    "roleSexIsM": true,
+    "roleRef": "He good at business",
+    "roleRef_Chinese": "他善于经商",
+    "startNumber": 50,
+    "levelTargetType": 0,
+    "_ID": 7
+  },
+  {
+    "roleModelID": 8,
+    "roleName": "Emma",
+    "roleAge": 21,
+    "roleSexIsM": false,
+    "roleRef": "She was admitted to Harvard",
+    "roleRef_Chinese": "她被哈佛录取了",
+    "startNumber": 50,
+    "levelTargetType": 1,
+    "_ID": 19
+  },
+  {
+    "roleModelID": 9,
+    "roleName": "Bill",
+    "roleAge": 53,
+    "roleSexIsM": true,
+    "roleRef": "He has many friends",
+    "roleRef_Chinese": "他有很多朋友",
+    "startNumber": 50,
+    "levelTargetType": 0,
+    "_ID": 9
+  },
+  {
+    "roleModelID": 10,
+    "roleName": "Nick",
+    "roleAge": 20,
+    "roleSexIsM": true,
+    "roleRef": "He love pop music",
+    "roleRef_Chinese": "他喜欢流行音乐",
+    "startNumber": 50,
+    "levelTargetType": 0,
+    "_ID": 15
+  },
+  {
+    "roleModelID": 11,
+    "roleName": "Judy",
+    "roleAge": 36,
+    "roleSexIsM": false,
+    "roleRef": "She killed a cat by accident",
+    "roleRef_Chinese": "她意外杀死了一只猫",
+    "startNumber": 50,
+    "levelTargetType": 1,
+    "_ID": 4
+  },
+  {
+    "roleModelID": 12,
+    "roleName": "David",
+    "roleAge": 46,
+    "roleSexIsM": true,
+    "roleRef": "He was a good dad",
+    "roleRef_Chinese": "他是个好父亲",
+    "startNumber": 50,
+    "levelTargetType": 0,
+    "_ID": 10
+  },
+  {
+    "roleModelID": 13,
+    "roleName": "Emily",
+    "roleAge": 16,
+    "roleSexIsM": false,
+    "roleRef": "She was the cheerleader",
+    "roleRef_Chinese": "她是拉拉队长",
+    "startNumber": 50,
+    "levelTargetType": 0,
+    "_ID": 17
+  },
+  {
+    "roleModelID": 14,
+    "roleName": "Jordan",
+    "roleAge": 17,
+    "roleSexIsM": true,
+    "roleRef": "He was a hacker",
+    "roleRef_Chinese": "他是个黑客",
+    "startNumber": 50,
+    "levelTargetType": 1,
+    "_ID": 12
+  },
+  {
+    "roleModelID": 15,
+    "roleName": "Mia",
+    "roleAge": 29,
+    "roleSexIsM": false,
+    "roleRef": "She was a marathon champion",
+    "roleRef_Chinese": "她是一个马拉松冠军",
+    "startNumber": 50,
+    "levelTargetType": 1,
+    "_ID": 5
+  },
+  {
+    "roleModelID": 16,
+    "roleName": "Mark",
+    "roleAge": 22,
+    "roleSexIsM": true,
+    "roleRef": "He was the best player in team",
+    "roleRef_Chinese": "他是队内最好的运动员",
+    "startNumber": 50,
+    "levelTargetType": 0,
+    "_ID": 14
+  },
+  {
+    "roleModelID": 17,
+    "roleName": "Sarah",
+    "roleAge": 23,
+    "roleSexIsM": false,
+    "roleRef": "She is addicted to alcohol",
+    "roleRef_Chinese": "她酒精成瘾",
+    "startNumber": 50,
+    "levelTargetType": 0,
+    "_ID": 18
+  },
+  {
+    "roleModelID": 18,
+    "roleName": "Hellen",
+    "roleAge": 33,
+    "roleSexIsM": false,
+    "roleRef": "She was service in military",
+    "roleRef_Chinese": "她曾在军队服役",
+    "startNumber": 50,
+    "levelTargetType": 1,
+    "_ID": 6
+  },
+  {
+    "roleModelID": 19,
+    "roleName": "Jessica",
+    "roleAge": 17,
+    "roleSexIsM": false,
+    "roleRef": "She used to bully Mary",
+    "roleRef_Chinese": "她经常欺负玛丽",
+    "startNumber": 50,
+    "levelTargetType": 0,
+    "_ID": 16
+  }
+]
